@@ -1,0 +1,15 @@
+{
+	"name": "e2eprojectdevadf",
+	"properties": {
+		"trustModeClaimForMi": {
+			"value": "Enabled",
+			"editable": true
+		}
+	},
+	"location": "centralindia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "58e58192-7e2e-49f5-bd0b-05e6fc802aa0",
+		"tenantId": "e0793d39-0939-496d-b129-198edd916feb"
+	}
+}
